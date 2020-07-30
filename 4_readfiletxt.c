@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(){
 	
-	const char filename[] = "file.txt";
+	const char filename[] = "4_file.txt";
 	FILE *fh;
 	char buffer[64];	
 	/* open the file */
@@ -25,7 +25,7 @@ int main(){
 	return(0);
 	
 /* Output:
-File 'file.txt' opened	
+File '4_file.txt' opened	
 This is a book.
 That is a pen.*/
 
