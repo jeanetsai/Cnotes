@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(){
+
+	char *buffer;
+	
+	buffer = (char *)malloc( sizeof(char) * 128 );
+	
+	if (buffer == NULL){
+	
+		puts("unable to allocate memory");
+		exit(1);
+	}
+	puts("Buffer allocated");
+	free(buffer);
+	puts("Buffer freed");
+
+/*Output:
+Buffer allocated
+Buffer freed
+*/
+}
