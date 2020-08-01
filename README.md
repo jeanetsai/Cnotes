@@ -3,3 +3,4 @@ C and Cpp for students
 
 7_2_dir_ListAllFilesInCurrentDir.c 列出目前資料夾下的所有檔案
 8_2_ListAllFileDetailsInCurrentDir.c 列出目前資料夾下的所有檔案和資料夾
+8_3_ListAllFileDetailsInUrInputDir.c 鍵入目標路徑並列出目標資料夾下的所有檔案
