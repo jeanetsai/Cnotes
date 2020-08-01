@@ -10,4 +10,5 @@
 B_14_09_virtual_function.cpp 純虛擬函數與抽象基礎類別
 B_14_10_virtual_base_class.cpp 虛擬基礎類別
 B_15_01_openfile_readonly.cpp 唯讀開檔
-B_15_02_openfile_writeonly.cpp 寫入檔案
+B_15_02_writefile_writeonly.cpp 寫入檔案
+B_15_03_readfile_readonly.cpp 讀取檔案txt的內容並列印出來
