@@ -1,3 +1,4 @@
+Always 記得: 字串後的空字元
 02.06.Modifying arrays
 
 01_03-array1
